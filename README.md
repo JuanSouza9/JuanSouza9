@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Juan Pablo
-- 👀 I’m interested in Android/Front-end development 
+- 👀 I’m interested in Android and Front-end development 
 - 🌱 I’m currently learning Kotlin
 - 📫 ig @juan_blacks_
