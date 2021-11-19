@@ -16,7 +16,7 @@
     <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div><br/>
                                                                                                                                         
-[![Juan wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuanSouza9)](https://github.com/JuanSouza9/)
+[![Juan wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuanSouza9)](https://github.com/JuanSouza9/JuanSouza9)
                                                                                                                                
 
 ## Minhas Skills
