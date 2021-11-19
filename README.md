@@ -16,7 +16,8 @@
     <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div><br/>
                                                                                                                                         
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/JuanSouza9/JuanSouza9)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuanSouza9)](https://github.com/anuraghazra/github-readme-stats)
+
 
                                                                                                                                
 
