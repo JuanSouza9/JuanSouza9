@@ -6,7 +6,7 @@
 
 ![Juan GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanSouza9&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSouza9&layout=compact)](https://github.com/JuanSouza9/JuanSouza9)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSouza9&layout=compact)](https://github.com/JuanSouza9/)
 
 
 ## Tecnologias que uso no meu dia-a-dia
