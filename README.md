@@ -15,11 +15,7 @@
     <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div><br/>
-                                                                                                                                        
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JuanSouza9)](https://github.com/anuraghazra/github-readme-stats)
-
-
-                                                                                                                               
+                                                                                                                                                                                                                                                                    
 
 ## Minhas Skills
 
